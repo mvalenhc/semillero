@@ -1,0 +1,85 @@
+*{
+    margin:0px;
+    padding: 0px;
+}
+.izq{
+    width: 15%;
+    height: 100vh;
+    background-color:rgb(255, 255, 255);
+    float: left;
+}
+.cen{
+    width: 70%;
+    height: 100vh;
+    background-color:rgb(255, 255, 255);
+    float: left;
+}
+.der{
+    width: 15%;
+    height: 100vh;
+    background-color:rgb(255, 255, 255);
+    float: right;
+}
+.photo{
+    width: 100%;
+    height: 200px;
+    background-color: rgb(255, 255, 255);
+    margin-top: 60px;
+}
+.name{
+    width: 100%;
+    height: 50px;
+    background-color:rgb(233, 45, 250);
+}
+.score{
+    width: 100%;
+    height: 50px;
+    background-color:rgb(112, 55, 165);
+}
+.time{
+    width: 100%;
+    height: 50px;
+    background-color:rgb(19, 31, 139);
+}
+.title{
+    width: 100%;
+    height: 50px;
+    background-color:rgb(134, 240, 234);
+    border-radius: 5px;
+}
+
+.triky{
+    width: 100%;
+    height: 650px;
+    background-color:rgb(134, 240, 234);
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    border-radius: 5px;
+}
+.btn{
+    width: 100%;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+}
+.btn-Start{
+    width: 33%;
+    height: 50px;
+    font-size: 30px;
+}
+.sec{
+    width: 148px;
+    height: 148px;
+    background-color:rgb(118, 176, 243);
+    float: left;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+.square{
+    width: 450px;
+    height: 450px;
+    background-color:black;
+    margin-top: 60px;
+    border-radius: 5px;
+}
