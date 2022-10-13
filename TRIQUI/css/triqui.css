@@ -1,0 +1,51 @@
+section#principal{
+    display: inline-block;
+    margin: 0 auto;
+    text-align: center;
+    width: 100%;
+}
+article#comandos{
+    border: 1px solid rgb(88, 17, 71);
+    display: inline-block;
+    min-height: 300px;
+    vertical-align: top;
+    width: 25%;
+}
+article#tablero{
+    border: 1px solid rgb(39, 133, 97);
+    display: inline-block;
+    margin: 0 auto;
+    text-align: center;
+    width: 50%;   
+}
+article#tablero input{
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+    font-size: 8px;
+    color: salmon;
+}  
+input[type=button]#iniciar{
+    font-size: 0.8em;
+    margin-top: 2em;
+    text-align: center;
+}  
+label{
+    font-size: 1em;
+    font-weight: bold;
+    text-align: center;
+}
+.botoninicial{
+    color: rgba(33, 27, 112, 0.815);
+    background-color: rgb(21, 70, 119)
+}
+.botonjugador1{
+    color: rgb(245,0, 212);
+    background-color: rgb(16, 121, 115);
+    font-size: 30px;
+}
+.botonjugador2{
+    color: rgb(245, 0, 212);
+    background-color: rgb(16, 121, 115);
+    font-size: 30px;
+}
